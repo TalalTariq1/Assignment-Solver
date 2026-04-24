@@ -1,0 +1,27 @@
+# --- Security & Config ---
+.env
+.venv/
+env/
+venv/
+
+# --- Assignment Solver Specific ---
+input/
+output/
+
+# --- Python & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- IDEs & Tools ---
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# --- Distribution / Build ---
+dist/
+build/
+*.egg-info/
